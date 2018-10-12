@@ -1,6 +1,7 @@
 # codefundo-
 We are making a Software which includes Artificial Intelligence and Augmented Reality
 We are focusing on the How to save maximum life after occurrence Disaster.
+
 1>Accessing the undiscovered Sites and providing help
 We can get  Pre and post-disaster image from satellite and using crowd-sourced analysis and machine learning. We can identify  locations affected by the disaster that had not yet been assessed or received aid and help can be reached to them as soon as possible. 
 AI spots geographical area of reported incident before human notice and  can alert key official
@@ -15,3 +16,4 @@ During emergency situation , huge amount of call is time consuming. Ai can analy
 
 4>Medication facilities to victims
 Lots of life can be safe if medication is provided to them in time. Augmented reality can save lifes by providing real time information to Doctor  by wearing Smart glass and the Doctor can prescibe the best possible medication wothout actually moving to location
+
